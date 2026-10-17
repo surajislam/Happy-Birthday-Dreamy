@@ -1,7 +1,7 @@
 // ---- typewriter ----
 (function(){
   const el=document.getElementById('typewriter');
-  const phrases=['Happy Birthday, SUDEEP','Make A Wish ✨','Have The Best Year Yet 🌙'];
+  const phrases=['Happy Birthday, SURAJ','Make A Wish ✨','Have The Best Year Yet 🌙'];
   let p=0;
   async function sleep(ms){return new Promise(r=>setTimeout(r,ms));}
   async function cycle(){
